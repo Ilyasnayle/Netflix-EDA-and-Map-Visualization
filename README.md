@@ -8,6 +8,19 @@ Specifically, it leverages the Netflix dataset to create compelling visualizatio
 Enjoy! 🙂
 
 ---------------------------------------------------------------------------------------------------------------
+### Libraries used in this notebook.
+- import pandas as pd
+- import numpy as np
+- import matplotlib.cm as cm
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- import folium
+- from folium.plugins import MarkerCluster
+- import plotly.express as px
+- import plotly.graph_objects as go
+- from plotly.subplots import make_subplots
+
+---------------------------------------------------------------------------------------------------------------
 
 ### Both Plotly and Folium offer distinct advantages and drawbacks.
 
